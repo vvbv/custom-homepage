@@ -3,7 +3,13 @@ html, body {
 }
 
 .bookmark {
+    margin-right: 15px;
     cursor: pointer;
+    float: left;
+}
+
+.bookmark:last-of-type {
+    margin-right: 0;
 }
 
 .bookmark-link {
