@@ -1,0 +1,22 @@
+html, body {
+    background-color: #3c4043;
+}
+
+.bookmark {
+    cursor: pointer;
+}
+
+.bookmark-link {
+    background-color: rgb(228, 228, 228);
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 50%;
+    height: 48px;
+    width: 48px;
+}
+
+.bookmark-favicon {
+    padding-top: 12px;
+    height: 24px;
+    width: 24px;
+}
